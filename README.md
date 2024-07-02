@@ -1,4 +1,4 @@
-Hello! I'm Astrid. Bristol-based, python enthusiast, big-time nerd.
+Hello! I'm Astrid. Bristol-based, python enthusiast, & star trek nerd.
 
 To check out all my published files, see the Hello World repository below ♥️
 <!---
